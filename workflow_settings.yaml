@@ -1,0 +1,4 @@
+defaultProject: weather-pipeline-509612
+defaultDataset: dataform
+defaultAssertionDataset: dataform_assertions
+dataformCoreVersion: 3.0.52
